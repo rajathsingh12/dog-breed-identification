@@ -6,7 +6,7 @@ The dataset is downloaded from the following: https://www.kaggle.com/c/dog-breed
 
 Libraries used – Keras, Numpy, Pandas, Open-CV, Scikit-learn. 
 
-## First Step – importing the important libraries.
+## First Step – Importing the important libraries.
 
 ## Second Step – Data Preparation – 
 •	In this step the data is loaded from the given CSV files. <br>
