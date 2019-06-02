@@ -1,5 +1,5 @@
 # Dog-Breed Identification
-This is a Kaggle competition that I tried and this is my very first kernel. There are a total of 120 breeds of dog. I took the help of pre-trained weights inorder to get a good accuracy. 
+This is a Kaggle competition that I tried and this is my very first kernel. There are a total of 120 breeds of dog. I took the help of pre-trained weights in order to get good accuracy. 
 
 
 The dataset is downloaded from the following: https://www.kaggle.com/c/dog-breed-identification/data
